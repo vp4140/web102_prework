@@ -25,9 +25,9 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
+Recommended tools:
 [Giphy Capture](https://giphy.com/apps/giphycapture) for macOS
- -->
+
 
 ## Notes
 
